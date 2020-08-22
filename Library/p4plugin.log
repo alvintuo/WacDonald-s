@@ -1,0 +1,63 @@
+p1:-1 0 Change 125612 created.
+p1:-1 1 Change 125612 updated.
+p1:-1 1 Submitting change 125612.
+p1:-1 1 Locking 12 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/Level1Scene.unity#78
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/Level1Scene.unity.meta#37
+p1:-1 1 delete //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/SampleScene.unity#4
+p1:-1 1 delete //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/SampleScene.unity.meta#4
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scripts/NPCSpawner.cs#7
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scripts/NPCSpawner.cs.meta#7
+p1:-1 1 add //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Sprites/Grill/New Piskel-1.png (7).png#1
+p1:-1 1 add //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Sprites/Grill/New Piskel-1.png (7).png.meta#1
+p1:-1 1 add //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Sprites/Level/Short Buble Tabl.png#1
+p1:-1 1 add //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Sprites/Level/Short Buble Tabl.png.meta#1
+p1:-1 1 add //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Sprites/UI/UI Background-2.png#1
+p1:-1 1 add //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Sprites/UI/UI Background-2.png.meta#1
+p1:-1 2 Change 125612 renamed change 125614 and submitted.
+p1:-1 0 Change 125768 created.
+D:/Perforce/ralphc_desktop/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Animations/MoneyPopup.controller.meta - file(s) not opened on this client.
+
+D:/Perforce/ralphc_desktop/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/WinScene.unity.meta - file(s) not opened on this client.
+
+D:/Perforce/ralphc_desktop/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/StartScene.unity.meta - file(s) not opened on this client.
+
+D:/Perforce/ralphc_desktop/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/LoseScene.unity.meta - file(s) not opened on this client.
+
+D:/Perforce/ralphc_desktop/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/Level1Scene.unity.meta - file(s) not opened on this client.
+
+D:/Perforce/ralphc_desktop/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Prefabs/Customer.prefab.meta - file(s) not opened on this client.
+
+w1:D:/Perforce/ralphc_desktop/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Animations/MoneyPopup.controller.meta - file(s) not opened on this client.\n
+w1:D:/Perforce/ralphc_desktop/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Prefabs/Customer.prefab.meta - file(s) not opened on this client.\n
+w1:D:/Perforce/ralphc_desktop/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/Level1Scene.unity.meta - file(s) not opened on this client.\n
+w1:D:/Perforce/ralphc_desktop/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/LoseScene.unity.meta - file(s) not opened on this client.\n
+w1:D:/Perforce/ralphc_desktop/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/StartScene.unity.meta - file(s) not opened on this client.\n
+w1:D:/Perforce/ralphc_desktop/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/WinScene.unity.meta - file(s) not opened on this client.\n
+p1:-1 1 Change 125768 updated.
+p1:-1 1 Submitting change 125768.
+p1:-1 1 Locking 16 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Animations/MoneyPopup.controller#2
+p1:-1 1 add //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Animations/moneypopup_disappear2.anim#1
+p1:-1 1 add //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Animations/moneypopup_disappear2.anim.meta#1
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Prefabs/Customer.prefab#21
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/Level1Scene.unity#83
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/LoseScene.unity#5
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/StartScene.unity#8
+p1:-1 1 delete //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/TutorialScene.unity#2
+p1:-1 1 delete //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/TutorialScene.unity.meta#2
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scenes/WinScene.unity#4
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scripts/NPC.cs#20
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scripts/NPC.cs.meta#20
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scripts/Player.cs#54
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scripts/Player.cs.meta#54
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scripts/Station.cs#30
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Assets/Scripts/Station.cs.meta#30
+p1:-1 2 Change 125768 submitted.
+p1:-1 1 Change 125775 created with 1 open file(s).
+p1:-1 1 Submitting change 125775.
+p1:-1 1 Locking 1 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_2/nhsga/round2/team27/working/WacDonald's/Packages/packages-lock.json#9
+p1:-1 1 Change 125775 submitted.
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+e32:connect: 128.2.236.137:1666: WSAETIMEDOUT\n
